@@ -145,4 +145,4 @@ per default:
 |xref:pki/pkiSignCrl.adoc[`pki --signcrl`]
 |===
 
-Use the command line option `*--rsa-padding = pkcs1*` for legacy PKCS#1 padding.
+Use the command line option `*--rsa-padding pkcs1*` for legacy PKCS#1 padding.
